@@ -22,7 +22,7 @@ Users can add, remove, search, and display students, as well as manage course en
 - `Person.h` → Base class for Person
 - `Student.h` / `Student.cpp` → Derived class for Student with course management
 - `main.cpp` → Program entry point, menu and logic
-- `UML/StudentSystemUML.png` → UML diagram for the system
+- `UML class diagram of inheritance` → UML diagram for the system
 - `report.pdf` → Detailed project report
 
 ---
